@@ -1,0 +1,6 @@
+aiogram==2.9.2
+psutil
+speedtest-cli
+mysql-connector-python
+telethon
+requests
